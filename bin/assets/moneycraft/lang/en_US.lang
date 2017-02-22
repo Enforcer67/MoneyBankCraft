@@ -1,0 +1,11 @@
+
+#Blocks
+
+tile.moneycraft:testblock.name=TrollBlock
+
+#Items
+
+item.moneycraft:test_item.name=Trollface
+
+#Creative Tab
+itemGroup.moneycraft:tab_moneycraft=Moneycraft Mod
